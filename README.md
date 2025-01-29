@@ -33,33 +33,7 @@ This project focuses on analyzing text data to classify sentiments (e.g., positi
   - `Matplotlib` and `Seaborn`: For data visualization.
   - `NLTK`: For text preprocessing.
 
-## Getting Started
 
-### Prerequisites
-Make sure you have Python (>= 3.8) installed. Install the required libraries using the following command:
-
-```bash
-pip install -r requirements.txt
-```
-
-### Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Angshuman-nits/SentimentAnalysis_Project.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd SentimentAnalysis_Project
-   ```
-
-### Running the Project
-
-1. Open the notebook:
-   ```bash
-   jupyter notebook SentimentAnalysis_Project.ipynb
-   ```
-2. Follow the steps in the notebook to preprocess the data, train models, and evaluate their performance.
 
 ## Results
 
