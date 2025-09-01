@@ -35,10 +35,6 @@ This project focuses on analyzing text data to classify sentiments (e.g., positi
 
 
 
-## Results
-
-- Achieved [mention accuracy or F1-score]% accuracy on the sentiment classification task.
-- Identified key features influencing model predictions using TF-IDF.
 
 
 
